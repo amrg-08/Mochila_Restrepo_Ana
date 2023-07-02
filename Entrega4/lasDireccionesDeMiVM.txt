@@ -1,0 +1,7 @@
+Dirección Ip Privada: 127.0.0.1
+Dirección IP Publica: 186.81.100.64
+Dirección mac: 08:00:27:5f:15:c8
+
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+
+R/ Si es diferente ya que se la IP publica es la dirección asignada por el proveedor de la red y la IP privada es la dirección en la red interna.
